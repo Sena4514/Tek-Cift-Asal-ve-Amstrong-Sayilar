@@ -1,0 +1,38 @@
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.Form1.resources
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Security.Permissions.dll
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Security.Permissions.xml
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Macbook\Desktop\c# project\homework2\homework2\obj\Debug\homework2.csproj.CopyComplete
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Security.Permissions.dll
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Security.Permissions.xml
+C:\Users\Macbook\Desktop\homework2\homework2\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.Form1.resources
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.csproj.CopyComplete
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\Macbook\Desktop\homework2\homework2\obj\Debug\homework2.pdb
